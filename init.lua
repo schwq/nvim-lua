@@ -1,0 +1,5 @@
+require('editor_config')
+require('plugins')
+require('colorscheme')
+require('keymap')
+require('language_server')
